@@ -75,7 +75,16 @@ This endpoint handles user signup, approving or rejecting applications based on 
 
 
 
-# TASK 3 BANKS
+
+# TASK 3 User Data Display
+### Getting the user data
+<img src="Images\A121.jpg">
+
+
+
+# TASK 4 BANKS| BANKING TASK
 <img src="Images\GetUser.jpg">
 
+
+## Borrow Money APIS
 <img src="Images\UserFound.jpg">
